@@ -1,0 +1,14 @@
+[
+  {
+    "keys": [
+      "ctrl+shift+k"
+    ],
+    "command": "reveal_in_side_bar"
+  },
+  {
+    "keys": [
+      "ctrl+shift+w"
+    ],
+    "command": "tab_only"
+  }
+]
